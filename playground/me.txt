@@ -1,0 +1,5 @@
+{{#user}}
+Name: Kunal Gaikwad
+Skills: HTML, CSS, JS, TS, PYTHON, Next.js, React js, wtailwind css, material ui, chakra ui, headless ui,
+Email: kunalgaikwad6390@gmail.com
+{{/user}}
